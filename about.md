@@ -1,7 +1,10 @@
 # About
 
-AI Compliance Labs builds technical infrastructure for
-governance and audit of high-risk AI systems.
+AI Compliance Labs builds audit evidence infrastructure for high-risk AI systems.
 
-We focus on reproducible, regulator-aligned evidence generation
-for engineering and compliance teams.
+Focus areas:
+- Evidence generation workflows for regulated AI
+- Bias and robustness evaluation under counterfactual stress tests
+- Traceability and reproducibility artifacts for internal technical documentation
+
+This is technical infrastructure, not legal advice.
